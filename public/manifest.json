@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "AG DIGITAL - Business Promotion & Online Solutions",
+  "short_name": "AG DIGITAL",
+  "description": "সবচেয়ে কম খরচে যেকোনো নতুন দোকান ও ব্যবসার ওয়েবসাইট, অ্যাপ, ব্যানার ও অনলাইন প্রমোশন সার্ভিস। Developed by Asraful Islam Mazarbhuiya.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05070f",
+  "theme_color": "#05070f",
+  "categories": ["business", "productivity", "shopping", "utilities"],
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
